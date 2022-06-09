@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face {
+  font-family: 'HSYuji-Regular';
+  src: url('./fonts/HS유지체.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
